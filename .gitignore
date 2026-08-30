@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Credential hygiene: never commit real charger IDs or PINs.
+# Raw API captures must be sanitized before committing (see docs/protocol.md).
+docs/samples/*.raw
+secrets*.json

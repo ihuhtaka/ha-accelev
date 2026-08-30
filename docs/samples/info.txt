@@ -1,0 +1,4 @@
+FA000000
+Total energy is 3008.7 kWh
+Overall SOP is  1.3
+Firmware ver is 2.73

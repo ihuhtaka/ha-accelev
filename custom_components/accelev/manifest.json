@@ -1,0 +1,11 @@
+{
+  "domain": "accelev",
+  "name": "Accelev EV Charger",
+  "codeowners": ["@ihuhtaka"],
+  "config_flow": true,
+  "documentation": "https://github.com/ihuhtaka/ha-accelev",
+  "integration_type": "device",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/ihuhtaka/ha-accelev/issues",
+  "version": "0.1.0"
+}
